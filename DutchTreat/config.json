@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "DutchConnectionString": "Server=JOY007; Database = DutchTreatDb; Integrated Security = true; MultipleActiveResultSets = true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "DutchTreat": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}

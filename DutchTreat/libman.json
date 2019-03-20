@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-rtl@3.4.0",
+      "destination": "wwwroot/lib/bootstrap/",
+      "files": [
+        "css/bootstrap-rtl.min.css",
+        "css/bootstrap-flipped.css",
+        "css/bootstrap-flipped.css.map",
+        "css/bootstrap-flipped.min.css",
+        "css/bootstrap-rtl.css",
+        "css/bootstrap-rtl.css.map"
+      ]
+    },
+    {
+      "library": "twitter-bootstrap@4.3.1",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "jquery@3.3.1",
+      "destination": "wwwroot/lib/jquery/",
+      "files": [
+        "jquery.min.js",
+        "core.js",
+        "jquery.js",
+        "jquery.min.map"
+      ]
+    }
+  ]
+}

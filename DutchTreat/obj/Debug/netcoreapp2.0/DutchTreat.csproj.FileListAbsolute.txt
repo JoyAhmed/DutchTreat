@@ -1,0 +1,11 @@
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.deps.json
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.runtimeconfig.json
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.runtimeconfig.dev.json
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.dll
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.pdb
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.csprojAssemblyReference.cache
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.csproj.CoreCompileInputs.cache
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfoInputs.cache
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfo.cs
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.dll
+E:\ASP.NET Projects\Pluralsight\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.pdb
